@@ -15,11 +15,9 @@ flex-wrap: wrap; ">
         <br>
         <p>
             - 💬 Ask me about **Machine Learning and Data Science**
-
         </p>
         <br>
         <p>
-
             - 📫 How to reach me **koustubhk2193@gmail.com**
         </p>
         <br>
