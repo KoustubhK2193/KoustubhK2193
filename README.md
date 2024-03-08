@@ -22,11 +22,9 @@ flex-wrap: wrap; ">
  force behind my academic and professional pursuits.”
         </h6>
         </p>
-        <br>
         <p>
-            - 📫 How to reach me koustubhk2193@gmail.com
+            - 📫 How to reach me <a link:"koustubhk2193@gmail.com">koustubhk2193@gmail.com</a>
         </p>
-        <br>
         <p>
             - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hp7S_cmpg06_tOjJ5QBcDN4u-GHFthzC/view?usp=drive_link">View My Resume</a> 
         </p>
