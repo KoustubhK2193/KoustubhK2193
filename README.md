@@ -13,7 +13,7 @@ flex-wrap: wrap; ">
         <h2>
             About Me
         </h2>
-        <h6>
+        <h6 style="text-align: justify;">
             “I am a aspiring software developer with a profound
  passion for creating innovative solutions using cutting-edge technologies.
  My journey in the world of technology has led me to develop a keen interest
