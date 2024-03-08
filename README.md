@@ -23,7 +23,7 @@ flex-wrap: wrap; ">
         </h6>
         </p>
         <p>
-            - 📫 How to reach me <a link:"koustubhk2193@gmail.com">koustubhk2193@gmail.com</a>
+            - 📫 How to reach me : <a href="mailto:koustubhk2193@gmail.com">koustubhk2193@gmail.com</a>
         </p>
         <p>
             - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hp7S_cmpg06_tOjJ5QBcDN4u-GHFthzC/view?usp=drive_link">View My Resume</a> 
