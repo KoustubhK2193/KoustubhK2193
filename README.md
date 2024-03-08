@@ -10,15 +10,21 @@ align-items: center;
 flex-wrap: wrap; ">
     <div class="left" style="width: 30%; height: 300px; display:flex; flex-direction:column; align-items:space-around; font-size:18px;">
         <p>
-            - 🌱 I’m currently learning **React and Node JS** 
+        <h2>
+            About Me
+        </h2>
+        <h6>
+            “I am a aspiring software developer with a profound
+ passion for creating innovative solutions using cutting-edge technologies.
+ My journey in the world of technology has led me to develop a keen interest
+ in three core areas:Web Development, Data Structures and Algorithms
+ (DSA) and Machine Learning(ML).These passions serveas the driving
+ force behind my academic and professional pursuits.”
+        </h6>
         </p>
         <br>
         <p>
-            - 💬 Ask me about **Machine Learning and Data Science**
-        </p>
-        <br>
-        <p>
-            - 📫 How to reach me **koustubhk2193@gmail.com**
+            - 📫 How to reach me koustubhk2193@gmail.com
         </p>
         <br>
         <p>
