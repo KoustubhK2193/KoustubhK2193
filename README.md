@@ -8,7 +8,7 @@
 justify-content: space-around;
 align-items: center;
 flex-wrap: wrap; ">
-    <div class="left" style="width: 40%; height: 300px; display:flex; flex-direction:column; align-items:space-around; font-size:18px;">
+    <div class="left" style="width: 30%; height: 300px; display:flex; flex-direction:column; align-items:space-around; font-size:18px;">
         <p>
             - 🌱 I’m currently learning **React and Node JS** 
         </p>
@@ -25,7 +25,7 @@ flex-wrap: wrap; ">
             - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hp7S_cmpg06_tOjJ5QBcDN4u-GHFthzC/view?usp=drive_link">View My Resume</a> 
         </p>
     </div>
-    <div style="width: 40%; display:flex">
+    <div style="width: 30%; display:flex">
         <img src="https://www.adelaide.edu.au/aiml/sites/default/files/styles/ua_image_landscape/public/media/images/2022-07/aspi-figure-3_1.jpg?h=c4dd2c7b&itok=uEg-1JS_" width=400/>
     </div>
 </div>
