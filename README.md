@@ -1,7 +1,7 @@
 <img src="https://media.licdn.com/dms/image/D5616AQEZc9g9bNhARg/profile-displaybackgroundimage-shrink_350_1400/0/1680441247293?e=1715212800&v=beta&t=sjnkJCwpcMx-2lwLDs8GRrWftt7lHbyn-XZgr7Qicxk"/>
 
 <h1 align="center">Hi 👋, I'm Koustubh Kukarni</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koustubhk2193&label=Profile%20views&color=0e75b6&style=flat" alt="koustubhk2193" /> </p>
 <div style="display: flex;
