@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQEZc9g9bNhARg/profile-displaybackgroundimage-shrink_350_1400/0/1680441247293?e=1715212800&v=beta&t=sjnkJCwpcMx-2lwLDs8GRrWftt7lHbyn-XZgr7Qicxk"/>
+<img src="./BgImg.jpeg"/>
 
 <h1 align="center">Hi 👋, I'm Koustubh Kukarni</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
